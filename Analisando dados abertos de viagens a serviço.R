@@ -39,7 +39,6 @@ summary(viagens$Valor.passagens)
 
 
 #Verificar tipo dos dados
-#Caso não tenha o dplyr instalado remover o comentario da linha abaixo
 
 install.packages("dplyr")
 library(dplyr)
@@ -188,3 +187,4 @@ head(p3)
 ggplot(p3, aes(x = data.inicio.formatada, y = qtd, group = 1))+
   geom_line()+
   geom_point()
+
