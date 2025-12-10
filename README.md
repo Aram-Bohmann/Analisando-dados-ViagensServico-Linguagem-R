@@ -1,7 +1,21 @@
 # Analisando-dados-ViagensServico-Linguagem-R
-### Descrição
-Este repositório armazena uma prática desenvolvida no curso Análise de Dados em Linguagem R da Enap, contendo algumas das funções do R trabalhando com a análise de dados abertos de viagens a serviço de 2019, com o intuito de subsidiar a tomada de medidas mais eficientes na redução dos gastos com os custos dessas viagens no setor público.
-Origem dos Dados disponíveis [aqui](https://portaldatransparencia.gov.br/download-de-dados/viagens).
+###Descrição
+
+Este repositório contém uma prática de análise de dados em R, desenvolvida no curso Análise de Dados em Linguagem R da Enap.
+O objetivo é analisar dados abertos de viagens a serviço do setor público em 2019 para subsidiar decisões mais eficientes na redução de custos com viagens.
+
+Os dados originais estão disponíveis no Portal da Transparência
+.
+
+##🎯 Definição do Problema
+
+O objetivo principal é entender os gastos com viagens a serviço e responder às seguintes questões:
+
+Qual é o valor gasto por órgão?
+
+Qual é o valor gasto por cidade?
+
+Qual é a quantidade de viagens por mês?
 
 ## 🛠️ Construído com
 
